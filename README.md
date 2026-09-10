@@ -1,5 +1,5 @@
-# Streamdeth
+#Streamdeth
 
 Official update repository for Streamdeth.
 
-Current Version : 2.0.0
+Current Version : 3.0.0
